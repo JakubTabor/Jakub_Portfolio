@@ -9,3 +9,6 @@ Machine Learning engineer portfolio
 * Using of Neural Net for Classification
 
 ![](https://github.com/JakubTabor/Jakub_Portfolio/blob/main/images/image.png)
+
+
+# [Project 2: Regression ocean data]()
