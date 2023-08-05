@@ -7,3 +7,5 @@ Machine Learning engineer portfolio
 * Train model on my own (tensorflow flower photos dataset)
 * Visualization of training and evaluation using matplotlib
 * Using of Neural Net for Classification
+
+![](https://github.com/JakubTabor/Jakub_Portfolio/blob/main/images/image.png)
