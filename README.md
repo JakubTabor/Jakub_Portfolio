@@ -17,10 +17,10 @@ Machine Learning engineer portfolio
 * Use Linear Regression model to explore correlation between temperature and rest of the parameters
 * Measuring the error of the model with use of RMSE
 
-![](https://github.com/JakubTabor/Jakub_Portfolio/blob/main/images/image%202.png)
+![](https://github.com/JakubTabor/Jakub_Portfolio/blob/main/images/Regression.png)
 
 
-# [Project 3: Gradient Descent from scratch](https://github.com/JakubTabor/Gradient_Descent_Neural_Network_2/blob/main/Gradient_Descent_Batch_and_Stochastic.ipynb)
+# [Project 3: Gradient Descent from scratch (Deep Learning)](https://github.com/JakubTabor/Gradient_Descent_Neural_Network_2/blob/main/Gradient_Descent_Batch_and_Stochastic.ipynb)
 *
 
 ![](https://github.com/JakubTabor/Jakub_Portfolio/blob/main/images/gradient_descent.png)
