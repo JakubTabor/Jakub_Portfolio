@@ -17,4 +17,4 @@ Machine Learning engineer portfolio
 * Use Linear Regression model to explore correlation between temperature and rest of the parameters
 * Measuring the error of the model with use of RMSE
 
-![](https://github.com/JakubTabor/Jakub_Portfolio/blob/main/images/image.png)
+![](https://github.com/JakubTabor/Jakub_Portfolio/blob/main/images/image%202.png)
