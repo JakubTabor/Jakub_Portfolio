@@ -11,7 +11,7 @@ Machine Learning engineer portfolio
 ![](https://github.com/JakubTabor/Jakub_Portfolio/blob/main/images/transfer_learning.png)
 
 
-# [Project 2: Regression ocean data (Regression)](https://github.com/JakubTabor/Regression/blob/main/Regression_oceans.ipynb)
+# [Project 2: Regression ocean data (Regression)](https://github.com/JakubTabor/Portfolio_Regression)
 * Data proprocessing using python code
 * Data exploration, examination of correlations in dataset with help of: seaborn and matplotlib
 * Use Linear Regression model to explore correlation between temperature and rest of the parameters
