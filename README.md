@@ -8,7 +8,7 @@ Machine Learning engineer portfolio
 * Visualization of training and evaluation using matplotlib
 * Using of Neural Net for Classification
 
-![](https://github.com/JakubTabor/Jakub_Portfolio/blob/main/images/transfer_learning.png)
+![](https://github.com/JakubTabor/Portfolio_Deep_Learning/blob/main/Images/Batch_GD_plot.png)
 
 
 # [Project 2: Regression ocean data (Regression)](https://github.com/JakubTabor/Portfolio_Regression)
