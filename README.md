@@ -1,7 +1,7 @@
 # Jakub_Portfolio
 Machine Learning engineer portfolio
 
-# [Project 1: Transfer Learning (Classification)](https://github.com/JakubTabor/Transfer_Learning_Deep_Learning/blob/main/Transfer_Learning.ipynb)
+# [Project 1: Transfer Learning (Classification)](https://github.com/JakubTabor/Portfolio_Classification)
 * Load the model that is trained on (2,257,984) params
 * Data transformation using: cv2, pathlib, numpy
 * Train model on my own (tensorflow flower photos dataset)
