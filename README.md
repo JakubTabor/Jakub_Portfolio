@@ -20,7 +20,7 @@ Machine Learning engineer portfolio
 ![](https://github.com/JakubTabor/Jakub_Portfolio/blob/main/images/Regression.png)
 
 
-# [Project 3: Gradient Descent from scratch (Deep Learning)](https://github.com/JakubTabor/Gradient_Descent_Neural_Network_2/blob/main/Gradient_Descent_Batch_and_Stochastic.ipynb)
+# [Project 3: Gradient Descent from scratch (Deep Learning)](https://github.com/JakubTabor/Portfolio_Deep_Learning)
 * Simple preprocessing with use of: sklearn preprocessing
 * Building house price prediction function with only python and sklearn
 * Implementing all Gradient descent functionalities: forward pass, Backward Pass and Update
