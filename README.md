@@ -26,3 +26,6 @@ Machine Learning engineer portfolio
 * Implementing all Gradient descent functionalities: forward pass, Backward Pass and Update
 
 ![](https://github.com/JakubTabor/Jakub_Portfolio/blob/main/images/gradient_descent.png)
+
+# [Project 4: Clustering_marketing_campaign](https://github.com/JakubTabor/Portfolio_Clustering)
+* feature engineering include: merging features, replacing them, renaming and dropping. All in pure python
