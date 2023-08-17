@@ -27,7 +27,7 @@ Machine Learning engineer portfolio
 
 ![](https://github.com/JakubTabor/Jakub_Portfolio/blob/main/images/gradient_descent.png)
 
-# [Project 4: Clustering_marketing_campaign](https://github.com/JakubTabor/Portfolio_Clustering)
+# [Project 4: (Clustering) marketing campaign](https://github.com/JakubTabor/Portfolio_Clustering)
 * Feature engineering include: merging features, replacing them, renaming and dropping. All in pure python
 * Data preprocessing using: LabelEncoder and StandardScaler
 * Dimensionality reduction with use of PCA
