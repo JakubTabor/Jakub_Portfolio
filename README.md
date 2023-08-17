@@ -31,3 +31,5 @@ Machine Learning engineer portfolio
 * Feature engineering include: merging features, replacing them, renaming and dropping. All in pure python
 * Data preprocessing using: LabelEncoder and StandardScaler
 * Dimensionality reduction with use of PCA
+* Clustering with AgglomerativeClustering and help of: KElbowVisualizer and KMeans
+* customers profiling with help of: seaborn and matplotlib
