@@ -33,3 +33,5 @@ Machine Learning engineer portfolio
 * Dimensionality reduction with use of PCA
 * Clustering with AgglomerativeClustering and help of: KElbowVisualizer and KMeans
 * customers profiling with help of: seaborn and matplotlib
+
+![](https://github.com/JakubTabor/Jakub_Portfolio/blob/main/images/cluster_plot.png)
